@@ -1,3 +1,5 @@
 Dataset for 6 different expression classes can be found on kaggle.com
 
 URL for the dataset - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+
+Download/Paste the 2 train and validation folders on the current path for training of model.
